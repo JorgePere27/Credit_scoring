@@ -57,3 +57,5 @@ Curse el Bootcamp de Data analyst de Tripleten, en dicho boocamp realice diferen
 * Jupyter Notebook
 * Google Colab
 * Pandas
+
+**Este proyecto fue realizado dentro del Bootcamp de Data Analyst de Tripleten.**
